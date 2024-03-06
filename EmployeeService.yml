@@ -12,4 +12,4 @@ spring:
 server:
   port: 8081
 greeting:
-  message: "returning a message"
+  message: "I'm up and running"
