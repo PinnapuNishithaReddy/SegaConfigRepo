@@ -9,6 +9,8 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: update
+  profiles:
+    active: dev
 server:
   port: 8081
 greeting:
